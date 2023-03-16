@@ -20,7 +20,7 @@ const Blog = () => {
                     We can also share specific states with multiple components instead through props manually. In some use cases, ideal for theming, localization, authentication etc.
                 </strong>
             </p>
-            <h3>3. Why  to useRef Hooks</h3>
+            <h3>3. Why it needs to  Hooks</h3>
             <p>
                 <strong>
                     useRef returns a mutable ref object whose .current property is initialized to the passed argument (initialValue). The returned object will persist for the full lifetime of the component.
