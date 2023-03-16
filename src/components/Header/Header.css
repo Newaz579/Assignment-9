@@ -1,0 +1,18 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    padding: 20px;
+    border: 2px solid aqua;
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+.header-topics{
+    margin: auto 0px;
+}
+
+.header-topics a{
+    text-decoration: none;
+    margin-right: 10px;
+}
