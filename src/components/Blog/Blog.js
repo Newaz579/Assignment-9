@@ -23,7 +23,7 @@ const Blog = () => {
             <h3>3. Why it needs to useRef Hooks</h3>
             <p>
                 <strong>
-                    useRef returns a mutable ref object whose .current property is initialized to the passed argument (initialValue). The returned object will persist for the full lifetime of the component.
+                    useRef returns a mutable ref object whose .current property is initialized to the passed argument (initialValue). 
                 </strong>
             </p>
         </div>
